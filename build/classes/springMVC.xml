@@ -28,7 +28,7 @@
      
     <mvc:default-servlet-handler />
  
-    <!-- 视图定位 -->
+    <!-- 视图定位 enen-->
     <bean
         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass"
